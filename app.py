@@ -14,3 +14,4 @@ try:
         main.main()
 except Exception as err:
     st.error(f"Error launching application: {err}")
+    
